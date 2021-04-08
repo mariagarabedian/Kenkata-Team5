@@ -163,7 +163,7 @@ html, body {
     font-size: 2.75rem;
     font-weight: bold;
 }
-@media (min-width:1200px){#n-c h1{margin-top: 6.25rem; font-size: 3.75;}}
+@media (min-width:1200px){#n-c h1{margin-top: 6.25rem; font-size: 3.75rem;}}
 #n-c span{
     font-size: 2.25rem;
     font-weight: bold;
@@ -276,7 +276,7 @@ html, body {
 #notfound button {
     background-color: #20D3C2;
     color: #FFFF;
-    font-size: 1.125;
+    font-size: 1.125rem;
     padding: 1rem 2rem;
     width: auto;
     margin-top: 2.5rem;
